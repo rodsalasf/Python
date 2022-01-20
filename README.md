@@ -19,7 +19,7 @@ Página personal [aquí](https://sites.google.com/uv.cl/rodrigo-salas)
   - Estructuras de Control
   - Estructuras de Datos
   - Funciones
-2. Análisis Exploratorio de datos con Python [Clase 2]
+2. Análisis Exploratorio de datos con Python [[Clase 2](UBB2022-Clase_2-AnalisisExploratorioDatos.pdf)]
   - Toolbox para Ciencia de Datos
   - Manipulación de Datos con Python
   - Análisis Exploratorio de Datos
@@ -39,7 +39,7 @@ Las actividades se realizarán utilizando los jupyter notebooks
 [Instructivo de Instalación.](SW-requerido-Python_DataScience.pdf)
 
 1. [Taller 1 - Programación en Python](https://colab.research.google.com/drive/1eh7SLkZ2lFf1RqlVl9AHWs709d9Gwe47?usp=sharing)
-2. Taller 2 - Análisis Exploratorio de Datos con Python
+2. [Taller 2 - Análisis Exploratorio de Datos con Python](https://colab.research.google.com/drive/1823WZNP3WPCZdRgWBPRt0NVOn0ERx3yn?usp=sharing)
 3. Análisis Multi-dimensional de datos con Python
 
 ## Referencias
