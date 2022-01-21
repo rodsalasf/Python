@@ -26,7 +26,6 @@ Página personal [aquí](https://sites.google.com/uv.cl/rodrigo-salas)
 3. Análisis Muldi-dimensional de datos con Python [Clase 3]
   - Análisis de Componentes Principales
   - Análisis de Clustering
-  - Técnicas de Proyección de Datos
 
 ## Taller
 
@@ -40,7 +39,7 @@ Las actividades se realizarán utilizando los jupyter notebooks
 
 1. [Taller 1 - Programación en Python](https://colab.research.google.com/drive/1eh7SLkZ2lFf1RqlVl9AHWs709d9Gwe47?usp=sharing)
 2. [Taller 2 - Análisis Exploratorio de Datos con Python](https://colab.research.google.com/drive/1823WZNP3WPCZdRgWBPRt0NVOn0ERx3yn?usp=sharing)
-3. Análisis Multi-dimensional de datos con Python
+3. [Taller 3 - Análisis Multi-dimensional de datos con Python](https://colab.research.google.com/drive/1l1ZVRTeclIBZEnk8PDiOdvyzebMuof2y?usp=sharing)
 
 ## Referencias
 
